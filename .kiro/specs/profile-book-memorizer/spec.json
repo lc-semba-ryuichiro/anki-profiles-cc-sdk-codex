@@ -1,0 +1,24 @@
+{
+  "feature_name": "profile-book-memorizer",
+  "created_at": "2025-11-15T14:33:28Z",
+  "updated_at": "2025-11-15T14:33:28Z",
+  "language": "ja",
+  "phase": "initialized",
+  "approvals": {
+    "requirements": {
+      "generated": false,
+      "approved": false
+    },
+    "design": {
+      "generated": false,
+      "approved": false
+    },
+    "tasks": {
+      "generated": false,
+      "approved": false
+    }
+  },
+  "ready_for_implementation": false
+}
+
+
